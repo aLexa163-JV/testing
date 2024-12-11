@@ -4,6 +4,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import pro.sry.testing.exception.DivisionByZeroException;
+import pro.sry.testing.exception.ParameterMissing;
 import pro.sry.testing.service.CalculatorService;
 
 import static org.junit.jupiter.api.Assertions.*;
